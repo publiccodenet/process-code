@@ -1,6 +1,6 @@
 permalink: pretty
 highlighter: rouge
-url: https://playbook.cio.gov
+url: https://publiccodenet.github.io/process-code
 
 collections:
   - phases
