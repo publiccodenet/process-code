@@ -201,7 +201,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       color: $atlantic_blue;
     }
 
-    #usds_logo {
+    #logo {
       display: inline-block;
       img {
         max-height: 100%;
@@ -210,7 +210,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       }
     }
 
-    #usds_logo:hover {
+    #logo:hover {
       background: none;
       img{
        opacity: 0.9;
