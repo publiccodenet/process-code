@@ -3,7 +3,7 @@ highlighter: rouge
 url: https://publiccodenet.github.io/process-code
 
 collections:
-  - plays
+  - phases
 
 markdown: kramdown
 

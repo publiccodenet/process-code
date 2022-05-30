@@ -26,7 +26,7 @@ There will also be a single person who follows the process from beginning to end
 ## We Want Your Feedback
 We encourage your feedback and suggestions on these documents. Content and feature suggestions and discussions are welcome via [GitHub Issues](https://github.com/publiccodenet/process-code/issues). You may also propose changes to the content directly by submitting a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests").
 
-You don't need to install any software to suggest a change. To propose a change from your browser, [select a play in the `_plays` folder](https://github.com/publiccodenet/process-code/tree/gh-pages/_plays "Link to the Plays Markdown files"). You can use GitHub's in-browser editor to edit files and submit a "pull request" for your changes to be merged into the document.
+You don't need to install any software to suggest a change. To propose a change from your browser, [select a phase in the `_phases` folder](https://github.com/publiccodenet/process-code/tree/gh-pages/_phases "Link to the Phases Markdown files"). You can use GitHub's in-browser editor to edit files and submit a "pull request" for your changes to be merged into the document.
 
 Changes will be reviewed by staff at the Foundation for Public Code, to ensure that the content is accurate and that the change supports the purpose and vision of the process code initiative. 
 
@@ -34,7 +34,7 @@ If you would like to see and discuss the changes that other people have proposed
 
 ## Technical Details
 
-The Playbook is compiled from [Markdown](https://help.github.com/articles/github-flavored-markdown "Link to More Information About Markdown") files using [Jekyll](https://github.com/jekyll/jekyll "Link to More Information about Jekyll"). To propose a specific change, you can submit a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") with your change to one of these source Markdown files. The Plays from the Playbook are [available in the `_plays` folder](https://github.com/publiccodenet/process-code/tree/gh-pages/_plays "Link to the Plays Markdown files").
+The Process Code is compiled from [Markdown](https://help.github.com/articles/github-flavored-markdown "Link to More Information About Markdown") files using [Jekyll](https://github.com/jekyll/jekyll "Link to More Information about Jekyll"). To propose a specific change, you can submit a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") with your change to one of these source Markdown files. The Phases from the Process Code are [available in the `_phases` folder](https://github.com/publiccodenet/process-code/tree/gh-pages/_phases "Link to the Phases Markdown files").
 
 You can also use Github's in-browser editing feature to make an edit to one of these Markdown files and submit your change for consideration without needing to install any additional software.
 
