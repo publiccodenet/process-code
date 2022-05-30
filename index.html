@@ -3,13 +3,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>The Digital Services Playbook — from the U.S. Digital Service</title>
+  <title>Process Code — from the Foundation for Public Code</title>
   <meta charset='UTF-8'/>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
   <link href='//fonts.googleapis.com/css?family=Merriweather:400,300,700|Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
-  <link rel='shortcut icon' href='{{site.baseurl}}/assets/images/favicon.ico' type='image/x-icon' />
-  <link rel="icon" type="image/png" href="{{site.baseurl}}/assets/images/favicon-32x32.png" sizes="32x32" />
-  <link rel="icon" type="image/png" href="{{site.baseurl}}/assets/images/favicon-16x16.png" sizes="16x16" />
+  <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
   <link href='{{site.baseurl}}/assets/css/styles.css' rel='stylesheet' />
 </head>
 
@@ -19,7 +17,7 @@
    <div class="outer_container">
     <div class="inner_container">
 
-      <a href="#introduction"><h3>Digital Services Playbook</h3></a>
+      <a href="#introduction"><h3>Process Code</h3></a>
       <ul class="nav">
         {% for play in site.plays %}
           <li class="play_square"><a href="#play{{ play.play_number }}" title="View Play {{ play.play_number }}: {{ play.title }}">{{ play.play_number }}</a></li>
@@ -35,7 +33,7 @@
 <div id="introduction">
   <div class="outer_container">
     <div class="inner_container">
-      <a id="usds_logo" href="https://www.usds.gov" target="_blank" title="Link to the United States Digital Service"><img src='{{site.baseurl}}/assets/images/usds-logo-seal.png' alt="Logo of the United States Digital Service"></a>
+      <a id="logo" href="https://publiccode.net" target="_blank" title="Link to the Foundation for Public Code"><img src='https://brand.publiccode.net/logo/mark.svg' alt="Logo of the Foundation for Public Code" width="150px"></a>
       {% capture introduction %}{% include introduction.md %}{% endcapture %}
       {{ introduction | markdownify }}
       <div class="button">
@@ -52,7 +50,7 @@
   <div class="outer_container">
     <div class="inner_container">
       <a class="anchor_offset" id="plays_index_anchor"></a>
-      <h2>Digital Service Plays</h2>
+      <h2>Process Code</h2>
       <div class="columns">
         <ol>
         {% for play in site.plays %}
