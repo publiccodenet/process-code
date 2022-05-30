@@ -366,7 +366,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
   }
 
-  #plays_index {
+  #phases_index {
     background: $usds-blue-medium;
     padding-bottom: 60px;
     color: $white;
@@ -454,7 +454,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
   }
 
-  #plays, #techfar {
+  #phases, #techfar {
     h2, h3 {
       @include span-columns(8);
     }

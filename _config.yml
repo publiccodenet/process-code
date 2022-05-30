@@ -3,7 +3,7 @@ highlighter: rouge
 url: https://playbook.cio.gov
 
 collections:
-  - plays
+  - phases
 
 markdown: kramdown
 
