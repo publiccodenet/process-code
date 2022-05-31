@@ -298,21 +298,6 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       }
     }
 
-    #menu_icon {
-      display: none;
-      height: 14px;
-      width: 16px;
-      margin-top: 16px;
-      float: right;
-      background-image: url('../images/menu_icon.svg');
-      background-size: contain;
-      a {
-        display: block;
-        height: 100%;
-        width: 100%;
-      }
-    }
-
     @include media($mobile) {
       ul {
         display: none;
@@ -444,7 +429,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
   }
 
-  #phases, #techfar {
+  #phases {
     h2, h3 {
       @include span-columns(8);
     }
@@ -513,21 +498,6 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       p {
         @include span-columns(10);
       }
-    }
-  }
-
-  #techfar {
-    em {
-      font-size: 12px;
-      // margin-right: 5px;
-      line-height: 0;
-      vertical-align: super;
-    }
-    h2, h4 {
-      margin-top: 20px;
-    }
-    img {
-      max-width: 100%;
     }
   }
 }
