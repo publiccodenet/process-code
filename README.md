@@ -7,11 +7,13 @@ You are here because you’ve discovered a challenge or an opportunity in the pu
 Well, you are in the right place.
 
 ### Introduction:
+
 This document is a guide for procuring existing software, building software in-house, or working with a vendor on custom software. It walks through government contracting step-by-step, aligning legitimate public procurement with the cutting edge best practices of software development. It is not an inflexible legal document. Rather, it’s a set of guidelines and best practices, with links to additional resources.
 
 Because every jurisdiction and every software process is unique, no guide can be one-size-fits-all. That’s why we are hosting this online, in a format that can be revised and adapted over time – by you, the expert on the ground. It’s a new way of creating and sharing best practices across the public sector entities – we call it a “process code.”
 
 ### What is Process Code:
+
 Every day, civil servants around the world carry out public processes. And as they face increasingly complex issues – challenges like effective COVID response, public WiFi installation, or software procurement – they need new approaches to those existing public processes.
 
 Cities that are using new approaches can learn from each other, adapt what others have done, and create best practices using a shared online document – what we call “process code.” We invite you to test it, revise it, and expand it. Welcome to a growing community of cities, states and provinces who believe that software can serve the public better!
@@ -19,11 +21,13 @@ Contribute to this document here.
 Read more about Process Code here.
 
 ### Who should use this Process Code:
+
 Several people from different departments should be involved in a software design and procurement process – from legal counsel to IT to the end users themselves – each bringing their own expertise and perspective. This guide is intended for all of them, but each will have a more prominent role in certain phases.
 
 There will also be a single person who follows the process from beginning to end: the “product owner.” Product owners are expert generalists who deeply understand end users and their needs, work across different departments, ask good questions, and carry the project from start to finish. The product owner should read this whole guide, and be comfortable with each step of the process, while specialists can read the introduction and basic principles, then focus on the particular step that is most relevant to them.
 
 ## We Want Your Feedback
+
 We encourage your feedback and suggestions on these documents. Content and feature suggestions and discussions are welcome via [GitHub Issues](https://github.com/publiccodenet/process-code/issues). You may also propose changes to the content directly by submitting a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests").
 
 You don't need to install any software to suggest a change. To propose a change from your browser, [select a phase in the `_phases` folder](https://github.com/publiccodenet/process-code/tree/gh-pages/_phases "Link to the Phases Markdown files"). You can use GitHub's in-browser editor to edit files and submit a "pull request" for your changes to be merged into the document.
