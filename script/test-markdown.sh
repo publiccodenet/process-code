@@ -10,7 +10,6 @@
 # MD002 First header should be a top level header
 # MD010 Hard tabs
 # MD012 Multiple consecutive blank lines
-# MD022 Headers should be surrounded by blank lines
 # MD026 Trailing punctuation in header
 #
 bundle exec mdl -r ~MD007,~MD013,~MD029,\
@@ -18,6 +17,5 @@ bundle exec mdl -r ~MD007,~MD013,~MD029,\
 ~MD002,\
 ~MD010,\
 ~MD012,\
-~MD022,\
 ~MD026,\
 	-i -g '.'
