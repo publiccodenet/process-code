@@ -6,12 +6,10 @@
 # MD029 Ordered list item prefix: we allow lists to be sequentially numbered
 #
 # Additionally, we have these violations which should be resolved:
-# MD001 Header levels should only increment by one level at a time
 # MD002 First header should be a top level header
 # MD026 Trailing punctuation in header
 #
 bundle exec mdl -r ~MD007,~MD013,~MD029,\
-~MD001,\
 ~MD002,\
 ~MD026,\
 	-i -g '.'
