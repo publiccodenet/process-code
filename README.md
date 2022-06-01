@@ -74,6 +74,10 @@ This project uses [Sass](http://sass-lang.com/ "Link to Learn More About Sass") 
 These styles are defined in the [`styles.scss` file](assets/_sass/styles.scss).
 We use [Jekyll's native SASS support](https://jekyllrb.com/docs/assets/) to auto-generate the required CSS when you run the site locally, as described above.
 
+## Credits
+
+This repository is forked from the [US Digital Services Playbook](https://github.com/usds/playbook).
+
 ## License
 
 We waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
