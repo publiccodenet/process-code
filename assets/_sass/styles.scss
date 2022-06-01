@@ -438,7 +438,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
   #phases {
-    h2, h3, h4 {
+    h2, h3, h4, h5 {
       @include span-columns(8);
     }
     h3 {
