@@ -13,27 +13,33 @@
 
 <body>
 
-<div id="navigation_bar">
-   <div class="outer_container">
-    <div class="inner_container">
+<nav>
+	<div id="navigation_bar">
+	 <div class="outer_container">
+		<div class="inner_container">
 
-      <a href="#introduction"><h3>Process Code</h3></a>
-      <ul class="nav">
-        {% for phase in site.phases %}
-          <li class="phase_square"><a href="#phase{{ phase.phase_number }}" title="View Phase {{ phase.phase_number }}: {{ phase.title }}">{{ phase.phase_number }}</a></li>
-        {% endfor %}
-      </ul>
-      <div id="menu_icon">
-        <a href="#phases_index_anchor" title="Return to Index"></a>
-      </div>
-    </div>
-  </div>
-</div>
+			<a href="#introduction"><h3>Process Code</h3></a>
+			<ul class="nav">
+			  {% for phase in site.phases %}
+			    <li class="phase_square"><a href="#phase{{ phase.phase_number }}" title="View Phase {{ phase.phase_number }}: {{ phase.title }}">{{ phase.phase_number }}</a></li>
+			  {% endfor %}
+			</ul>
+			<div id="menu_icon">
+			  <a href="#phases_index_anchor" title="Return to Index"></a>
+			</div>
+		</div>
+	</div>
+	</div>
+</nav>
 
 <div id="introduction">
   <div class="outer_container">
     <div class="inner_container">
       <a id="logo" href="https://publiccode.net" target="_blank" title="Link to the Foundation for Public Code"><img src='https://brand.publiccode.net/logo/mark.svg' alt="Logo of the Foundation for Public Code" width="150px"></a>
+      <header>
+      {% capture header %}{% include header.md %}{% endcapture %}
+      {{ header | markdownify }}
+      </header>
       {% capture introduction %}{% include introduction.md %}{% endcapture %}
       {{ introduction | markdownify }}
       <div class="button">
@@ -46,24 +52,26 @@
   </div>
 </div>
 
-<div id="phases_index">
-  <div class="outer_container">
-    <div class="inner_container">
-      <a class="anchor_offset" id="phases_index_anchor"></a>
-      <h2>Process Code</h2>
-      <div class="columns">
-        <ol>
-        {% for phase in site.phases %}
-          <li><a href="#phase{{ phase.phase_number }}" title="View Phase {{ phase.phase_number }}">{{ phase.title }}</a></li>
-        {% endfor %}
-        </ol>
-      </div>
-      <div class="button">
-        <a href="#phase1" title="View the In Detail">In detail</a>
-      </div>
-    </div>
-  </div>
-</div>
+<nav>
+	<div id="phases_index">
+		<div class="outer_container">
+		  <div class="inner_container">
+		    <a class="anchor_offset" id="phases_index_anchor"></a>
+		    <h2>Process Code</h2>
+		    <div class="columns">
+		      <ol>
+		      {% for phase in site.phases %}
+		        <li><a href="#phase{{ phase.phase_number }}" title="View Phase {{ phase.phase_number }}">{{ phase.title }}</a></li>
+		      {% endfor %}
+		      </ol>
+		    </div>
+		    <div class="button">
+		      <a href="#phase1" title="View the In Detail">In detail</a>
+		    </div>
+		  </div>
+		</div>
+	</div>
+</nav>
 
 <div id="phases" class="outer_container">
   {% for phase in site.phases %}

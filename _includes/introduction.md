@@ -1,13 +1,3 @@
-# Process Code for Software Procurement
-
-## Welcome
-
-*This process code introduces a digital-native approach to procurement, while maintaining the integrity of a legitimate, fair, transparent and objective process. It is important because it empowers public sector employees to be in control of how their digital tools are designed, purchased and used.*
-
-You are here because you’ve discovered a challenge or an opportunity in the public sector, and you suspect that software might help.
-…Now what?
-Well, you are in the right place.
-
 ## Introduction
 
 This document is a guide for procuring existing software, building software in-house, or working with a vendor on custom software. It walks through government contracting step-by-step, aligning legitimate public procurement with the cutting edge best practices of software development. It is not an inflexible legal document. Rather, it’s a set of guidelines and best practices, with links to additional resources.
@@ -32,28 +22,28 @@ ADD IMAGE HERE
 
 ## PHASE 1: Orientation: Capacity-building & Research
 
-Step 1: Capacity-building
-Step 2: Discovery Research
-Step 3: Market Research
-Step 4: Strategic Analysis
-*Output: Choice of a Strategy*
+- Step 1: Capacity-building
+- Step 2: Discovery Research
+- Step 3: Market Research
+- Step 4: Strategic Analysis
+  - Output: Choice of a Strategy
 
 ## PHASE 2: Planning: Documentation & Resourcing
 
-Step 5 (A,B,C): RFP Writing
-Output: RFP is issued
-Step 5 (D): Project Resourcing
-*Output: Agile development is planned*
+- Step 5 (A,B,C): RFP Writing
+  - Output: RFP is issued
+- Step 5 (D): Project Resourcing
+  - Output: Agile development is planned
 
 ## PHASE 3: Assessment: Compliance & Contracting
 
-Step 6 (A,B,C): Vendor interactions
-Step 7 (A,B,C): Bid Evaluation
-Step 8 (A,B,C): Contracting
-*Output: Purchase order or software license procurement*
+- Step 6 (A,B,C): Vendor interactions
+- Step 7 (A,B,C): Bid Evaluation
+- Step 8 (A,B,C): Contracting
+  - Output: Purchase order or software license procurement
 
 ## PHASE 4: Implementation: Building & Deploying
 
-Step 9 (B, C, D): Agile Development & Deployment
-Step 10 (A, B, C, D): Integration
-*Output: All features delivered, software is integrated & staff are trained
+- Step 9 (B, C, D): Agile Development & Deployment
+- Step 10 (A, B, C, D): Integration
+  - Output: All features delivered, software is integrated & staff are trained

@@ -41,8 +41,16 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     text-decoration: underline;
   }
 
-  ol, ul {
+  ol {
     list-style-type: decimal;
+    list-style-position: inside;
+    li {
+      margin: 1em 0;
+      color: $black;
+    }
+  }
+
+  ul {
     list-style-position: inside;
     li {
       margin: 1em 0;
@@ -178,7 +186,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   #introduction {
     background: $whitesmoke;
     color: $black;
-    padding-bottom: 60px;
+    padding-top: 60px;
 
     a {
       text-decoration: underline;
