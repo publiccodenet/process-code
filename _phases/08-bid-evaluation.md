@@ -12,7 +12,7 @@
 
 Because you introduced multiple types of criteria into the RFP, you can evaluate proposals based on quality in addition to price.
 
-* Does the vendor align with municipal objectives such as economic development (e.g. by hiring locally)?
+* Does the vendor align with municipal objectives such as economic development (for example by hiring locally)?
 * Does the city maintain ownership and control of data?
 * What is the long-term monetization model for the software?
 
@@ -21,10 +21,10 @@ Because you introduced multiple types of criteria into the RFP, you can evaluate
 The selection panel will review bids using the evaluation framework stated in the RFP. Each member will give their professional assessment of the quality of each bid, then work together to assign scores.
 
 * The panel should reflect the stakeholder group, including:
-  * A representative from the primary team or business unit procuring;
-  * A technical expert;
-  * A representative from the group of actual users;
-  * Additional individuals who were not involved with writing the tender.
+  * A representative from the primary team or business unit procuring
+  * A technical expert
+  * A representative from the group of actual users
+  * Additional individuals who were not involved with writing the tender
 * Do not include people who have conflicts of interest (anyone who stands to benefit or lose, on a personal or professional level, from a particular outcome of the RFP award).
 * Panelists should be briefed on the evaluation metrics (and ideally on a summary of the discovery research)
 * Panelists should review all bids separately before comparing thoughts and agreeing on scores.
