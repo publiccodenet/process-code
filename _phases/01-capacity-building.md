@@ -63,14 +63,20 @@ These cause misalignment in priorities and friction before and during the softwa
 
 ## Checklist
 
-* [ ] Regular multi-departmental workshops and supporting materials.
-* [ ] Well-trained product owners.
-* [ ] Basic familiarity with software development methods across the organization.
+* [ ] Regular multi-departmental workshops and supporting materials
+* [ ] Well-trained product owners
+* [ ] Basic familiarity with software development methods across the organization
 
-### References
+## References
 
-[De-risking Guide](https://derisking-guide.18f.gov/state-field-guide/) from 18F of the GSA's Technology Transformation Services
+18F: Derisking Guide
 
-[A Day in the Life of an 18F Product Owner](https://18f.gsa.gov/2017/09/18/a-day-in-the-life-of-an-18f-product-owner/) from 18F of the GSA's Technology Transformation Services
+[https://derisking-guide.18f.gov/state-field-guide/](https://derisking-guide.18f.gov/state-field-guide/)
 
-[Teaching Public Service in the Digital Age: The Digital Era Competencies](https://www.teachingpublicservice.digital/en/competencies)
+18F: A Day in the Life of an 18F Product Owner
+
+[https://18f.gsa.gov/2017/09/18/a-day-in-the-life-of-an-18f-product-owner/](https://18f.gsa.gov/2017/09/18/a-day-in-the-life-of-an-18f-product-owner/)
+
+Teaching Public Service in the Digital Age: The Digital Era Competencies
+
+[https://www.teachingpublicservice.digital/en/competencies](https://www.teachingpublicservice.digital/en/competencies)
