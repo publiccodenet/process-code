@@ -65,10 +65,10 @@ Not involving technical experts in the overall project plan, or not giving them 
 
 ## Checklist
 
-* [ ] Agile development pre-plan.
-* [ ] Resource plan.
-* [ ] Software evaluation framework.
-* [ ] Clear allocation of staff responsibilities.
+* [ ] Agile development pre-plan
+* [ ] Resource plan
+* [ ] Software evaluation framework
+* [ ] Clear allocation of staff responsibilities
 
 ## References
 
