@@ -3,6 +3,8 @@ phase_number: 1
 title: "Phase 1: Orientation"
 ---
 
+# Orientation phase
+
 The first phase is about creating a solid foundation for buying and using digital products.
 Capacity-building starts long before there is any specific software project.
 Product owners should spend time meeting staff members from various departments, hosting Q&A workshops, debunking myths about government procurement, establishing common language (“agile” “DevOps” “exclusionary criteria”), and sharing the basics of agile software development.
@@ -19,9 +21,9 @@ These options should be evaluated in a neutral way, accounting not only for cost
 
 Phase 1 ends with a choice of strategy. Depending on the approach, you will follow one of four paths...
 
-### Paths
+## Paths
 
-1. Buy Software off the shelf
+1. Buy software off the shelf
 2. Contract a vendor to build a custom instance of open source software (OSS)
 3. Contract a vendor to build custom software
 4. Build software (or adapt OSS) in-house
