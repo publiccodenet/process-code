@@ -86,11 +86,19 @@ Your colleagues in the legal and procurement departments will specify additional
 
 * Integrate standard language and legal clauses.
 
-## Common challenges
+## Common challenge
 
-* Cities and their procurement teams often assume that procurement law is inflexible, and re-use existing templates for RFPs to “play it safe.” These can unnecessarily constrain and influence the project definition and the resulting product. Start from a good description of the problem and an effective development process, then add in only the legal and procedural details that are necessary.
-* People often write RFPs in “legalese,” assuming that it appears more formal or legitimate. However, writing in a confusing way will only hinder the contracting and development process. It creates a high barrier to participation for small vendors who do not have bid sourcing or legal support. Describe the needs and criteria in clear, plain language.
-* RFPs often over-specify criteria and requirements, or they jump to describing _products_rather than _problems_. This forecloses the possibility of receiving bids that are innovative or exceed expectations. Narrow scoping also reduces the number of eligible vendors, which can leave you choosing between a small number of bad options. Don’t over specify the end product up front. Focus on the problem to solve and find the right vendor – then you can develop a solution.
+### Culture of Caution
+
+Cities and their procurement teams often assume that procurement law is inflexible, and re-use existing templates for RFPs to “play it safe.” These can unnecessarily constrain and influence the project definition and the resulting product. Start from a good description of the problem and an effective development process, then add in only the legal and procedural details that are necessary.
+
+### Writing in legalese
+
+People often write RFPs in “legalese,” assuming that it appears more formal or legitimate. However, writing in a confusing way will only hinder the contracting and development process. It creates a high barrier to participation for small vendors who do not have bid sourcing or legal support. Describe the needs and criteria in clear, plain language.
+
+### Narrow and over-specified scope
+
+RFPs often over-specify criteria and requirements, or they jump to describing _products_ rather than _problems_. This forecloses the possibility of receiving bids that are innovative or exceed expectations. Narrow scoping also reduces the number of eligible vendors, which can leave you choosing between a small number of bad options. Don’t over specify the end product up front. Focus on the problem to solve and find the right vendor – then you can develop a solution.
 
 ## Checklist
 
